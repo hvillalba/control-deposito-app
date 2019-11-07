@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/redMonchis2">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:bottomRightRadius="6dp"
+                android:bottomLeftRadius="6dp"
+                android:topLeftRadius="6dp"
+                android:topRightRadius="6dp"/>
+            <gradient
+                android:startColor="@color/blueMonchisDefault"
+                android:endColor="@color/blueMonchisDefault"
+                android:angle="45"/>
+        </shape>
+    </item>
+</ripple>

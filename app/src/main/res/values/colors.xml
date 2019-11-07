@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="negro">#030303</color>
+    <color name="blanco">#ffffff</color>
+    <color name="gray">#d7d4d4</color>
+    <color name="rojo">#d92424</color>
+
+    <!--Colores corporativos General-->
+    <color name="redMonchis1">#AF003C</color>
+    <color name="redMonchis2">#F73A3A</color>
+    <color name="redMonchisDefault">#FF3144</color>
+    <color name="pinkMonchis">#F7395E</color>
+    <color name="blueMonchisDefault">#142942</color>
+    <color name="greenMonchisDefault">#00BE8A</color>
+
+</resources>
